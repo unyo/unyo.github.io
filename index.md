@@ -18,5 +18,5 @@ My current occupation is as as Software Development Engineer with Xevo (formerly
   - Familiarity with travel industry regulations and software (14CFR/SABRE)
   - Developed software for cruise ship industry partners
 - Leadership
-  - 4 years of experience managing an outsourced call center of 300+ agents
+  - Managed an outsourced call center of 300+ agents
   - Previously a martial arts instructor
