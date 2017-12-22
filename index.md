@@ -2,9 +2,9 @@
 layout: default
 ---
 
+![Me in a picture, I'm on the left side](https://codymoniz.com/img/club.jpg "Cody Moniz"){: .profileImage }
 # Who Am I?
 I'm just a guy in Hawaii who is good at computers. This is me:
-![Me in a picture, I'm on the left side](https://codymoniz.com/img/club.jpg "Cody Moniz"){: .profileImage }
 
 # What Do I Do?
 My current occupation is as as Software Development Engineer with Xevo (formerly UIEvolution). I use a variety of front-end web-based technology to write software for hotel, car, and cruise ship clients.
